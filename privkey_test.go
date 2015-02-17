@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/btcsuite/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 func TestPrivKeys(t *testing.T) {

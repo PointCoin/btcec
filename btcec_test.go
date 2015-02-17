@@ -14,7 +14,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/btcsuite/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 // TestAddJacobian tests addition of points projected in Jacobian coordinates.
